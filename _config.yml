@@ -1,0 +1,13 @@
+remote_theme: jekyll/minima
+
+title: Cloud Study Jam @ GDG Cloud Lahore
+author: GDG Cloud Lahore
+description: > # this means to ignore newlines until "show_exerpts:"
+  Google Cloud Study Jams are community-run study groups for developers communities, supported by Google. 
+  
+minima:
+  date_format: "%b %-d, %Y"
+  # generate social links in footer
+  social_links:
+    github:  GDGCloudLahore
+    
