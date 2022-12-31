@@ -23,6 +23,8 @@ If you have any questions or need assistance during the study jam, please don't 
 
 ### GitHub
 - [Adil Shehzad](https://github.com/adilshehzad786) 
+- [Farhan Ashraf](https://github.com/farhanashrafdev) 
 
 ### LinkedIn 
 - [Adil Shehzad](https://www.linkedin.com/in/adilshehzad7/)
+- [Farhan Ashraf](https://www.linkedin.com/in/farhanashrafdev/)
