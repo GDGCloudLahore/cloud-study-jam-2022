@@ -24,7 +24,9 @@ If you have any questions or need assistance during the study jam, please don't 
 ### GitHub
 - [Adil Shehzad](https://github.com/adilshehzad786) 
 - [Farhan Ashraf](https://github.com/farhanashrafdev) 
+- [Sharjeel Yunus](https://github.com/sharjeelyunus) 
 
 ### LinkedIn 
 - [Adil Shehzad](https://www.linkedin.com/in/adilshehzad7/)
 - [Farhan Ashraf](https://www.linkedin.com/in/farhanashrafdev/)
+- [Sharjeel Yunus](https://www.linkedin.com/in/sharjeel-yunus/)
