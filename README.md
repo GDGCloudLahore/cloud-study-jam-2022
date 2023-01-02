@@ -7,15 +7,15 @@ Welcome to the Cloud Study Jam! In this jam, we will be exploring the various fe
 
 ## Labs
 
-- Session 1: Introduction to the Docker (Lab Link)
+- Lab 1: Introduction to the Docker [Lab Link](https://www.cloudskillsboost.google/focuses/1029?parent=catalog)
 
-- Session 2: Kuberenetes (Lab Link)
+- Lab 2: Kubernetes Engine: Qwik Start [Lab Link](https://www.cloudskillsboost.google/focuses/878?parent=catalog)
 
-- Session 3: Kubernetes Advance
+- Lab 3: Orchestrating the Cloud with Kubernetes [Lab Link](https://www.cloudskillsboost.google/focuses/557?parent=catalog)
 
 ## Resources
 
-Google Cloud Free Learning Resources Here 
+- 5 Free Google Cloud Training Resources [Blog Link](https://jaychapel.medium.com/5-free-google-cloud-training-resources-9410766667bc)
 
 ## Contact
 
